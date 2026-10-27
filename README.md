@@ -1,1 +1,1 @@
-# game-spec
+index.html
